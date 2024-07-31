@@ -1,0 +1,757 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/Demo/Lua/lua_call_csharp.lua",
+			"settings":
+			{
+				"buffer_size": 219,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAEAAAAAAAAAwQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"paste",
+					null,
+					"AgAAAD4AAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABJAAAAAAAAAAgAAABMdWFTY2VuZQ",
+					"AQAAAAAAAAABAAAAPgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"paste",
+					null,
+					"AgAAAGoAAAAAAAAAdgAAAAAAAAAAAAAAdgAAAAAAAAB2AAAAAAAAAAwAAABDU2hhcnBBY2Nlc3M",
+					"AQAAAAAAAAABAAAAagAAAAAAAAB2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAJMAAAAAAAAAlgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAogAAAAAAAACiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAJMAAAAAAAAAkwAAAAAAAAADAAAALS0g",
+					"AQAAAAAAAAABAAAAsgAAAAAAAACyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "--"
+					},
+					"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"paste",
+					null,
+					"AQAAAAIAAAAAAAAAFQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAIAAAAAAAAAAwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					2,
+					"left_delete",
+					null,
+					"AgAAANsAAAAAAAAA2wAAAAAAAAADAAAACgoK2gAAAAAAAADaAAAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAA3gAAAAAAAADbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAANoAAAAAAAAA2wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2gAAAAAAAADaAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "Assets/Demo/Lua/csharp_call_lua.lua",
+			"settings":
+			{
+				"buffer_size": 318,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"table",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"makdownex",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"unity",
+				"rios: new unity"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"favori",
+				"Favorites: Toggle Visibility"
+			],
+			[
+				"favorite",
+				"Favorites: Edit favorites (global)"
+			],
+			[
+				"fa",
+				"Favorites: Open all (global)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"tab",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"tabl",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"ta",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"book",
+				"Bookmarks: Clear All"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"TABL",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"pakcin",
+				"Package Control: Install Package"
+			],
+			[
+				"packrmeo",
+				"Package Control: Remove Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 141.0,
+		"history":
+		[
+			"7777",
+			"00",
+			"55666",
+			"88",
+			"66",
+			"55",
+			"000",
+			"99",
+			"2",
+			"22",
+			"0",
+			"00",
+			"100",
+			"1",
+			"1111"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/work/demo/tolua/Assets"
+	],
+	"file_history":
+	[
+		"/C/work/ikbase/tech/game_engine/unity/.assets/unity_hot_update_tolua__0wG6dAuY.png",
+		"/C/work/ikbase/manager/sites/job_sites.md",
+		"/C/work/ikbase/tech/game_engine/unity/unity_hot_update.md",
+		"/C/work/ikbase/tech/tools/00_tools_list.md",
+		"/C/Users/67052/AppData/Roaming/Sublime Text 3/Packages/Open-Include/Default (Windows).sublime-keymap",
+		"/C/Users/67052/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/67052/AppData/Roaming/Sublime Text 3/Packages/Open-Include/Open-Include.sublime-settings",
+		"/C/Users/67052/AppData/Roaming/Sublime Text 3/Packages/User/Open-Include.sublime-settings",
+		"/C/work/ikbase/tech/game_dev/dev_tools.md",
+		"/c/work/ikbase/tech/game_engine/unity/unity_hot_update_tolua.md",
+		"/C/work/ikbase/_help/syntax.md",
+		"/C/work/ikbase/tech/game_engine/unity3d/unity_hot_update.md",
+		"/C/work/ikbase/work/resume/202407_resume.css",
+		"/C/work/ikbase/work/resume/202407_resume_ref.css",
+		"/C/work/ikbase/work/resume/202407_resume_template.md",
+		"/C/work/ikbase/work/rios/project/dev_setting.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-ppt/app002-ikbase.md",
+		"/C/work/ikbase/work/mc/_research/_tracker/202006_game_research_tracker.md",
+		"/C/work/ikbase/manager/sites/design_sites.md",
+		"/C/work/ikbase/tech/os/wechat/weixin_miniprogram.md",
+		"/C/work/ikbase/tech/os/wechat/mini_game.md",
+		"/C/work/ikbase/tech/programming_language/python/django/django_buglist.md",
+		"/C/work/ikbase/work/resume/2018Q4.md",
+		"/C/work/ikbase/tech/programming_language/python/django/Django_basic.md",
+		"/C/work/ikbase/tech/programming_language/python/django/model.md",
+		"/C/work/ikbase/tech/programming_language/python/django/django_图片上传.md",
+		"/C/work/ikbase/tech/programming_language/python/django/00-django.md",
+		"/C/work/ikbase/tech/programming_language/python/django/redis.md",
+		"/C/work/ikbase/manager/sites/temp_sites.md",
+		"/C/work/ikbase/tech/os/android/kotlin/001_kotlin_app.md",
+		"/C/work/ikbase/tech/os/wechat/weixin_mp.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-isbn-icp.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-ppt/mcpuz2d002-3824/mcpuz2d002-3824.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-ppt/rac001-footballflappy.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-ppt/puz2d007-block.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-ppt/mcgame-ppt-template.md",
+		"/C/work/ikbase/tech/server/colyseus/colyseus.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-ppt/puz2d006-watermelon.md",
+		"/C/work/ikbase/tech/game_engine/godot/01_godot_build.md",
+		"/C/work/ikbase/tech/game_engine/godot/_base.md",
+		"/C/work/ikbase/tech/game_engine/godot/gdscript.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-ppt/sim003-minesweeper3d.md",
+		"/C/work/ikbase/tech/git/git_submodule.md",
+		"/C/work/projects/sim003-minesweeper3dtapaway/art/game_design.md",
+		"/C/work/ikbase/tech/server/01_new_aliyun_ecs_init.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-ppt/mcsdk.md",
+		"/C/work/ikbase/tech/programming_language/python/django/02-django-product.md",
+		"/C/work/ikbase/tech/programming_language/python/python_pyenv.md",
+		"/C/work/ikbase/tech/server/supabase/supabase.md",
+		"/C/work/ikbase/work/mc/store.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-tracker-account.md",
+		"/C/work/ikbase/tech/os/android/android_anr.md",
+		"/C/work/ikbase/tech/os/android/android_studio.md",
+		"/C/work/ikbase/tech/git/git_ssh.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-appstore.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-ppt/app001-yomigames.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-ppt/sim006-screw.md",
+		"/C/work/ikbase/tech/design/blender/blender_dev.md",
+		"/C/work/ikbase/tech/design/blender/00_blender.md",
+		"/C/work/ikbase/tech/programming_language/python/django/99-django-config-to-cloud_server.md",
+		"/C/work/ikbase/tech/programming_language/python/django/98-django-project-to-aliyun.md",
+		"/C/Users/67052/Downloads/GoogleService-Info.plist",
+		"/C/work/ikbase/tech/git/git_base.md",
+		"/C/work/ikbase/tech/programming_language/python/django/Django使用rest_framework.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-tracker.md",
+		"/C/work/ikbase/tech/programming_language/python/django/01_user_reg_login_logout_rest_framework.md",
+		"/C/work/ikbase/tech/design/blender/blender_tutorial.md",
+		"/C/work/ikbase/work/weekly_report/2023/mr_202312.md",
+		"/C/work/ikbase/work/weekly_report/2023/mr_202311.md",
+		"/C/work/ikbase/work/mc/manage/mcst_rule.md",
+		"/C/work/ikbase/work/mc/project/mc_project_2023q4.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-ppt/sim004-autocaretown.md",
+		"/C/work/ikbase/tech/game_engine/godot/project_dev_standard.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-bugfix-gp.md",
+		"/C/work/ikbase/work/rios/bugfixes/mainapp_buglist.md",
+		"/C/work/ikbase/tech/os/ios/ios_xcode.md",
+		"/C/Users/67052/AppData/Roaming/Sublime Text 3/Packages/Favorites/favorites.sublime-settings",
+		"/C/Users/67052/AppData/Roaming/Sublime Text 3/Packages/User/favorites.sublime-settings",
+		"/C/Users/67052/AppData/Roaming/Sublime Text 3/Packages/User/favorites.txt",
+		"/C/work/ikbase/ikbase.sublime-project.favorites",
+		"/C/work/ikbase/work/mc/project/mc_project_2023q3.md",
+		"/C/Users/67052/AppData/Local/Sublime Text 3/Cache/Favorites/Favorites",
+		"/c/work/ikbase/work/weekly_report/2023/mr_202307.md",
+		"/C/work/ikbase/work/weekly_report/2023/mr_202310.md",
+		"/C/work/ikbase/tech/game_engine/unity3d/ui/ugui/16_ugui_recttransform.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-googleplay.md",
+		"/C/work/ikbase/work/mc/stores_analytics/game_meta.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-isbn.md",
+		"/C/work/ikbase/work/weekly_report/2023/2023Q2/wr_20230618.md",
+		"/C/work/ikbase/tech/os/android/android_logcat.md",
+		"/C/work/ikbase/tech/game_engine/godot/display.md",
+		"/C/work/ikbase/tech/os/ios/appleid_gift.md",
+		"/C/work/ikbase/work/weekly_report/2023/mr_202309.md",
+		"/C/work/ikbase/tech/office_tool/video_download.md",
+		"/C/work/ikbase/work/mc/servers.md",
+		"/C/work/ikbase/tech/programming_language/python/django/django_win.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-planning.md",
+		"/C/work/ikbase/work/weekly_report/2023/mr_202308.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-ppt/sim001-storageplace.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-ppt/puz2d002-hanzi.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc-product-ppt/puz2d004-solitaire.md",
+		"/C/work/ikbase/tech/os/android/android-icon.md",
+		"/C/work/projects/yomicloud/.gitignore",
+		"/C/work/ikbase/work/mc/mcm-product/mc-game-idea.md",
+		"/C/work/ikbase/work/mc/mc_okr/2022Q4.md",
+		"/C/work/ikbase/tech/os/windows/keymap.md",
+		"/C/Users/67052/Desktop/mac_key.ahk",
+		"/C/work/ikbase/work/rios/bugfixes/new_gamekit_nuget.md",
+		"/C/work/ikbase/tech/game_engine/ue/001_ue_env.md",
+		"/C/work/ikbase/work/mc/mcm-product/mc019-football/mc019-game-football.md",
+		"/C/work/ikbase/tech/office_tool/sublime-text.md",
+		"/C/work/ikbase/tech/office_tool/sublime-text-error.md",
+		"/C/work/ikbase/tech/hardware/computer.md",
+		"/C/work/ikbase/manager/个人能力.xmind",
+		"/C/work/ikbase/tech/algorithms/1-sort.md",
+		"/C/work/ikbase/work/rios/project/2022Q4.md",
+		"/C/Users/67052/AppData/Roaming/Sublime Text 3/Packages/User/add_date.py",
+		"/C/work/ikbase/tech/windows/win10_floder.md",
+		"/C/work/ikbase/tech/macos/macOS优化系统服务.md",
+		"/C/work/ikbase/work/mc/mc_okr/2022Q2.md",
+		"/C/work/ikbase/tech/windows/keymap.md",
+		"/C/work/ikbase/work/rios/event/2022_rios_event.md",
+		"/C/work/ikbase/work/mc/mc_okr/2020Q3.md",
+		"/C/work/ikbase/tech/windows/dev.md",
+		"/C/work/ikbase/tech/game_engine/mc3d/_base.md",
+		"/C/work/ikbase/tech/game_engine/urho3d/002_build_project.md",
+		"/C/work/ikbase/tech/android/c_java_call.md",
+		"/C/work/ikbase/tech/game_engine/urho3d/_base.md"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Demo/Lua/lua_call_csharp.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Demo/Lua/csharp_call_lua.lua",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tolua.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"syn",
+				"_help\\syntax.md"
+			],
+			[
+				"tool",
+				"tech\\tools\\00_tools_list.md"
+			],
+			[
+				"jo",
+				"manager\\sites\\job_sites.md"
+			],
+			[
+				"site",
+				"manager\\sites\\job_sites.md"
+			],
+			[
+				"hel",
+				"_help\\syntax.md"
+			],
+			[
+				"hotup",
+				"tech\\game_engine\\unity\\unity_hot_update.md"
+			],
+			[
+				"rios",
+				"work\\rios\\project\\dev_setting.md"
+			],
+			[
+				"ikbase",
+				"work\\mc\\mcm-product\\mc-product-ppt\\app002-ikbase.md"
+			],
+			[
+				"django",
+				"tech\\programming_language\\python\\django\\Django_basic.md"
+			],
+			[
+				"sim",
+				"work\\mc\\mcm-product\\mc-product-ppt\\sim003-minesweeper3d.md"
+			],
+			[
+				"godot",
+				"tech\\game_engine\\godot\\01_godot_build.md"
+			],
+			[
+				"icp",
+				"work\\mc\\mcm-product\\mc-product-isbn-icp.md"
+			],
+			[
+				"3824",
+				"work\\mc\\mcm-product\\mc-product-ppt\\mcpuz2d002-3824\\mcpuz2d002-3824.md"
+			],
+			[
+				"rac001",
+				"work\\mc\\mcm-product\\mc-product-ppt\\rac001-footballflappy.md"
+			],
+			[
+				"submo",
+				"tech\\git\\git_submodule.md"
+			],
+			[
+				"pyenv",
+				"tech\\programming_language\\python\\python_pyenv.md"
+			],
+			[
+				"sdk",
+				"work\\mc\\mcm-product\\mc-product-ppt\\mcsdk.md"
+			],
+			[
+				"git",
+				"tech\\git\\git_ssh.md"
+			],
+			[
+				"store",
+				"work\\mc\\store.md"
+			],
+			[
+				"android",
+				"tech\\os\\android\\android_anr.md"
+			],
+			[
+				"account",
+				"work\\mc\\mcm-product\\mc-product-tracker-account.md"
+			],
+			[
+				"godo",
+				"tech\\game_engine\\godot\\01_godot_build.md"
+			],
+			[
+				"blender",
+				"tech\\design\\blender\\blender_dev.md"
+			],
+			[
+				"accou",
+				"work\\mc\\mcm-product\\mc-product-tracker-account.md"
+			],
+			[
+				"accoun",
+				"work\\mc\\mcm-product\\mc-product-tracker-account.md"
+			],
+			[
+				"help",
+				"_help\\syntax.md"
+			],
+			[
+				"bugfix",
+				"work\\mc\\mcm-product\\mc-product-bugfix-gp.md"
+			],
+			[
+				"bugl",
+				"work\\rios\\bugfixes\\mainapp_buglist.md"
+			],
+			[
+				"ios",
+				"tech\\os\\ios\\ios_xcode.md"
+			],
+			[
+				"acc",
+				"work\\mc\\mcm-product\\mc-product-tracker-account.md"
+			],
+			[
+				"googlep",
+				"work\\mc\\mcm-product\\mc-product-googleplay.md"
+			],
+			[
+				"logcat",
+				"tech\\os\\android\\android_logcat.md"
+			],
+			[
+				"rectt",
+				"tech\\game_engine\\unity3d\\ui\\ugui\\16_ugui_recttransform.md"
+			],
+			[
+				"icon",
+				"tech\\os\\android\\android-icon.md"
+			],
+			[
+				"serv",
+				"work\\mc\\servers.md"
+			],
+			[
+				"sim00",
+				"work\\mc\\mcm-product\\mc-product-ppt\\sim001-storageplace.md"
+			],
+			[
+				"nuget",
+				"work\\rios\\bugfixes\\new_gamekit_nuget.md"
+			],
+			[
+				"com",
+				"tech\\hardware\\computer.md"
+			],
+			[
+				"sublime",
+				"tech\\office_tool\\sublime-text.md"
+			],
+			[
+				"maco",
+				"tech\\macos\\macOS优化系统服务.md"
+			],
+			[
+				"rioseven",
+				"work\\rios\\event\\2022_rios_event.md"
+			],
+			[
+				"okr",
+				"work\\mc\\mc_okr\\2020Q3.md"
+			],
+			[
+				"mcpro",
+				"work\\mc\\mcm-product\\mc-product-tracker.md"
+			],
+			[
+				"java",
+				"tech\\android\\c_java_call.md"
+			],
+			[
+				"gitss",
+				"tech\\git\\git_ssh.md"
+			],
+			[
+				"playcon",
+				"Endless-Runner-Game-master\\Assets\\Scripts\\Player\\PlayerController.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,1 @@
+print("hello tolua in file")
